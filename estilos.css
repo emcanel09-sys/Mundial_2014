@@ -1,3 +1,23 @@
 body{ 
-    background-color: antiquewhite;
+    background-image: url(adidas_brazuca_2014_world_cup_ball.jpg);
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+}
+
+marquee{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    box-shadow: 2px 2px 10px white;
+
+
+}
+
+
+img{
+    height: 300px;
+    width: 200;
+    text-align: center;
+    align-items: center;
 }
