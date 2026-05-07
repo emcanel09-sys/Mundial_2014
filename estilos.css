@@ -1,3 +1,16 @@
 body{ 
     background-color: antiquewhite;
 }
+
+ .caja{
+    background-color: blanchedalmond; 
+    box-shadow: 2px 2px 10px gray;  
+    text-align: center;
+ }
+
+ img{
+    width: 400px;
+    height: 200px;
+    align-items: center;
+    box-shadow: 2px 2px 10px;
+ }
