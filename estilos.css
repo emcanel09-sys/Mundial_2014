@@ -40,6 +40,7 @@ marquee{
     display: inline-block;
     vertical-align: top;
     transition: 0.3s;
+    box-shadow: 5px 5px 10px white;
 
 }
 
