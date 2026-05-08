@@ -1,3 +1,52 @@
 body{ 
     background-color: antiquewhite;
 }
+
+.caja5{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+
+ .caja6{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ .caja7{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }    
+ .caja8{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ .caja9{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ .caja10{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }.caja11{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ .caja12{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ 
+ img{
+    width: 400px;
+    height: 200px;
+    align-items: center;
+    box-shadow: 2px 2px 10px;
+
+ }
