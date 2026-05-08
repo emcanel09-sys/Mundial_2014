@@ -9,7 +9,7 @@ body{
 marquee{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 50px;
-    box-shadow: 2px 2px 10px white;
+    box-shadow: 5px 2px 10px white;
 }
 
 .contenedor_mundi{
