@@ -12,7 +12,7 @@ marquee{
     box-shadow: 2px 2px 10px white;
 }
 
-.contenedor{
+.contenedor_mundi{
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
