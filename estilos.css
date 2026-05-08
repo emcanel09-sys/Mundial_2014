@@ -43,6 +43,30 @@ body{
     text-align: center;
  }
  
+ .caja1 {
+    background-color: blanchedalmond; 
+    box-shadow: 2px 2px 10px gray;  
+    text-align: center;
+ }
+
+ .caja2 {
+    background-color: blanchedalmond; 
+    box-shadow: 2px 2px 10px gray;  
+    text-align: center;
+ }
+
+ .caja3 {
+    background-color: blanchedalmond; 
+    box-shadow: 2px 2px 10px gray;  
+    text-align: center;
+ }
+
+ .caja4 {
+    background-color: blanchedalmond; 
+    box-shadow: 2px 2px 10px gray;  
+    text-align: center;
+ }
+
  img{
     width: 400px;
     height: 200px;
@@ -50,3 +74,40 @@ body{
     box-shadow: 2px 2px 10px;
 
  }
+ }
+
+marquee{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    box-shadow: 5px 2px 10px white;
+}
+.barra{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color: mediumpurple;
+   padding: 10px;
+
+}
+
+.inicio{
+   color: black;
+   font-weight: bold;
+   font-size: 40px;
+   margin-right: 70px;
+   
+}
+span:hover{
+    cursor: pointer;
+}
+
+.buscador input{
+    padding: 10px;
+    
+}
+
+.logo{
+    width: 150px;
+    height: auto;
+    margin: 0 15px;
+}
