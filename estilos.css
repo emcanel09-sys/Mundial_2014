@@ -1,4 +1,21 @@
 body{ 
+    background-color: rgb(5, 27, 78);
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 60px;
+}
+.contenedor div{
+    height: 200px;
+    outline: 10px solid white;
+}
+.contenedor img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
     background-color: antiquewhite;
 }
 
