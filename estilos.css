@@ -4,8 +4,99 @@ body{
    background-repeat: no-repeat;
    background-size: cover;
    background-attachment: fixed;
+    background-color: rgb(5, 27, 78);
 }
+.contenedor{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 60px;
+}
+.contenedor div{
+    height: 200px;
+    outline: 10px solid white;
+}
+.contenedor img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+    
 
+
+.caja5{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+
+ .caja6{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ .caja7{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }    
+ .caja8{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ .caja9{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ .caja10{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }.caja11{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ .caja12{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ 
+ .caja1 {
+    background-color: blanchedalmond; 
+    box-shadow: 2px 2px 10px gray;  
+    text-align: center;
+ }
+
+ .caja2 {
+    background-color: blanchedalmond; 
+    box-shadow: 2px 2px 10px gray;  
+    text-align: center;
+ }
+
+ .caja3 {
+    background-color: blanchedalmond; 
+    box-shadow: 2px 2px 10px gray;  
+    text-align: center;
+ }
+
+ .caja4 {
+    background-color: blanchedalmond; 
+    box-shadow: 2px 2px 10px gray;  
+    text-align: center;
+ }
+
+ img{
+    width: 400px;
+    height: 200px;
+    align-items: center;
+    box-shadow: 2px 2px 10px;
+
+ }
+ 
 
 marquee{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -60,4 +151,9 @@ td{
     padding: 10px;
     color: rgb(0, 0, 0);
     border: 1px solid #e6f35b;
+}
+.logo{
+    width: 150px;
+    height: auto;
+    margin: 0 15px;
 }
