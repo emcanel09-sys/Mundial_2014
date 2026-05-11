@@ -157,3 +157,52 @@ td{
     height: auto;
     margin: 0 15px;
 }
+
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    border-radius: 20px;
+    background-color: rgb(202, 248, 174);
+    padding: 20px;
+    margin: 20px;
+    
+   
+}
+.titulo{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(6, 36, 61);
+}
+.grupos{
+    width: 200px;
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid #000000;
+    text-align: left;
+    background-color: rgb(87, 168, 87);
+    border-radius: 15px;
+    height: 250px;
+    display: inline-block;
+    vertical-align: top;
+    transition: 0.3s;
+    box-shadow: 5px 5px 10px white;
+
+}
+
+.grupos:hover{
+ transform: translate(-10px)
+ scale(1.05);
+}
+
+table{
+    background-color: #d3d642;
+    border-collapse: collapse;
+    width: 100px;
+}
+td{
+    border-color: rgb(207, 220, 82);
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    border: 1px solid #e6f35b;
+}
