@@ -1,34 +1,169 @@
 body{ 
-    background-color: antiquewhite;
+    background-image: url(adidas_brazuca_2014_world_cup_ball.jpg);
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+    background-color: rgb(5, 27, 78);
 }
 
+<<<<<<< HEAD
 .barra{
    display: flex;
    justify-content: space-between;
    align-items: center;
    background-color: rgb(rgb(4, 166, 9), rgb(0, 255, 8), rgb(234, 255, 0));
    padding: 10px;
+=======
+marquee{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    box-shadow: 2px 2px 10px white;
+>>>>>>> 2af3f9879c899694ae1f449ec6041205c56446db
 }
 
-.inicio{
-   color: black;
-   font-weight: bold;
-   font-size: 40px;
-   margin-right: 70px;
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    border-radius: 20px;
+    background-color: rgb(202, 248, 174);
+    padding: 20px;
+    margin: 20px;
+    
    
 }
-span:hover{
-    cursor: pointer;
+.titulo{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(6, 36, 61);
+}
+.grupos{
+    width: 200px;
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid #000000;
+    text-align: left;
+    background-color: rgb(87, 168, 87);
+    border-radius: 15px;
+    height: 250px;
+    display: inline-block;
+    vertical-align: top;
+    transition: 0.3s;
+    box-shadow: 5px 5px 10px white;
+
 }
 
-.buscador input{
+.grupos:hover{
+ transform: translate(-10px)
+ scale(1.05);
+}
+
+table{
+    background-color: #d3d642;
+    border-collapse: collapse;
+    width: 100px;
+}
+td{
+    border-color: rgb(207, 220, 82);
     padding: 10px;
-    
-}
+    color: rgb(0, 0, 0);
+    border: 1px solid #e6f35b;
+     }
 
+<<<<<<< HEAD
 .logo{
     width: 150px;
     height: auto;
     margin: 0 15px;
 }
 
+=======
+     .caja1 {
+    background-color: blanchedalmond; 
+    box-shadow: 2px 2px 10px gray;  
+    text-align: center;
+ }
+
+ .caja2 {
+    background-color: blanchedalmond; 
+    box-shadow: 2px 2px 10px gray;  
+    text-align: center;
+ }
+
+ .caja3 {
+    background-color: blanchedalmond; 
+    box-shadow: 2px 2px 10px gray;  
+    text-align: center;
+ }
+
+
+ img{
+    width: 400px;
+    height: 200px;
+    align-items: center;
+    box-shadow: 2px 2px 10px;
+
+ }
+
+
+.caja5{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+
+ .caja6{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ .caja7{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }    
+ .caja8{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ .caja9{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ .caja10{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }.caja11{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ .caja12{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ 
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 60px;
+}
+.contenedor div{
+    height: 200px;
+    outline: 10px solid white;
+}
+.contenedor img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+    border: 1px solid #e6f35b;
+}
+>>>>>>> 2af3f9879c899694ae1f449ec6041205c56446db
