@@ -7,19 +7,17 @@ body{
     background-color: rgb(5, 27, 78);
 }
 
-<<<<<<< HEAD
 .barra{
    display: flex;
    justify-content: space-between;
    align-items: center;
    background-color: rgb(rgb(4, 166, 9), rgb(0, 255, 8), rgb(234, 255, 0));
    padding: 10px;
-=======
-marquee{
+}
+.marquee{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 50px;
     box-shadow: 2px 2px 10px white;
->>>>>>> 2af3f9879c899694ae1f449ec6041205c56446db
 }
 
 .contenedor{
@@ -71,14 +69,12 @@ td{
     border: 1px solid #e6f35b;
      }
 
-<<<<<<< HEAD
 .logo{
     width: 150px;
     height: auto;
     margin: 0 15px;
 }
 
-=======
      .caja1 {
     background-color: blanchedalmond; 
     box-shadow: 2px 2px 10px gray;  
@@ -164,6 +160,4 @@ td{
     height: 200px;
     object-fit: cover;
 }
-    border: 1px solid #e6f35b;
-}
->>>>>>> 2af3f9879c899694ae1f449ec6041205c56446db
+  
