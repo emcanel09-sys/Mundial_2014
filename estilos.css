@@ -2,13 +2,7 @@ body{
     background-color: antiquewhite;
 }
 
-.barra{
-   display: flex;
-   justify-content: space-between;
-   align-items: center;
-   background-color: mediumpurple;
-   padding: 10px;
-}
+
 
 .inicio{
    color: black;
@@ -31,3 +25,4 @@ span:hover{
     height: auto;
     margin: 0 15px;
 }
+
