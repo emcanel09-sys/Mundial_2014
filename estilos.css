@@ -6,97 +6,6 @@ body{
    background-attachment: fixed;
     background-color: rgb(5, 27, 78);
 }
-.contenedor{
-    display: flex;
-    justify-content: center;
-    margin: 0 auto;
-    gap: 60px;
-}
-.contenedor div{
-    height: 200px;
-    outline: 10px solid white;
-}
-.contenedor img{
-    width: 200px;
-    height: 200px;
-    object-fit: cover;
-}
-    
-
-
-.caja5{
-    background-color: blanchedalmond;
-    box-shadow: 2px 2px 10px gray;
-    text-align: center;
- }
-
- .caja6{
-    background-color: blanchedalmond;
-    box-shadow: 2px 2px 10px gray;
-    text-align: center;
- }
- .caja7{
-    background-color: blanchedalmond;
-    box-shadow: 2px 2px 10px gray;
-    text-align: center;
- }    
- .caja8{
-    background-color: blanchedalmond;
-    box-shadow: 2px 2px 10px gray;
-    text-align: center;
- }
- .caja9{
-    background-color: blanchedalmond;
-    box-shadow: 2px 2px 10px gray;
-    text-align: center;
- }
- .caja10{
-    background-color: blanchedalmond;
-    box-shadow: 2px 2px 10px gray;
-    text-align: center;
- }.caja11{
-    background-color: blanchedalmond;
-    box-shadow: 2px 2px 10px gray;
-    text-align: center;
- }
- .caja12{
-    background-color: blanchedalmond;
-    box-shadow: 2px 2px 10px gray;
-    text-align: center;
- }
- 
- .caja1 {
-    background-color: blanchedalmond; 
-    box-shadow: 2px 2px 10px gray;  
-    text-align: center;
- }
-
- .caja2 {
-    background-color: blanchedalmond; 
-    box-shadow: 2px 2px 10px gray;  
-    text-align: center;
- }
-
- .caja3 {
-    background-color: blanchedalmond; 
-    box-shadow: 2px 2px 10px gray;  
-    text-align: center;
- }
-
- .caja4 {
-    background-color: blanchedalmond; 
-    box-shadow: 2px 2px 10px gray;  
-    text-align: center;
- }
-
- img{
-    width: 400px;
-    height: 200px;
-    align-items: center;
-    box-shadow: 2px 2px 10px;
-
- }
- 
 
 marquee{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -151,58 +60,92 @@ td{
     padding: 10px;
     color: rgb(0, 0, 0);
     border: 1px solid #e6f35b;
-}
-.logo{
-    width: 150px;
-    height: auto;
-    margin: 0 15px;
-}
+     }
+
+     .caja1 {
+    background-color: blanchedalmond; 
+    box-shadow: 2px 2px 10px gray;  
+    text-align: center;
+ }
+
+ .caja2 {
+    background-color: blanchedalmond; 
+    box-shadow: 2px 2px 10px gray;  
+    text-align: center;
+ }
+
+ .caja3 {
+    background-color: blanchedalmond; 
+    box-shadow: 2px 2px 10px gray;  
+    text-align: center;
+ }
+
+
+ img{
+    width: 400px;
+    height: 200px;
+    align-items: center;
+    box-shadow: 2px 2px 10px;
+
+ }
+
+
+.caja5{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+
+ .caja6{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ .caja7{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }    
+ .caja8{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ .caja9{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ .caja10{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }.caja11{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ .caja12{
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+ }
+ 
 
 .contenedor{
     display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    border-radius: 20px;
-    background-color: rgb(202, 248, 174);
-    padding: 20px;
-    margin: 20px;
-    
-   
+    justify-content: center;
+    margin: 0 auto;
+    gap: 60px;
 }
-.titulo{
-    text-align: center;
-    font-size: 25px;
-    color: rgb(6, 36, 61);
+.contenedor div{
+    height: 200px;
+    outline: 10px solid white;
 }
-.grupos{
+.contenedor img{
     width: 200px;
-    padding: 15px;
-    margin: 10px;
-    border: 1px solid #000000;
-    text-align: left;
-    background-color: rgb(87, 168, 87);
-    border-radius: 15px;
-    height: 250px;
-    display: inline-block;
-    vertical-align: top;
-    transition: 0.3s;
-    box-shadow: 5px 5px 10px white;
-
+    height: 200px;
+    object-fit: cover;
 }
-
-.grupos:hover{
- transform: translate(-10px)
- scale(1.05);
-}
-
-table{
-    background-color: #d3d642;
-    border-collapse: collapse;
-    width: 100px;
-}
-td{
-    border-color: rgb(207, 220, 82);
-    padding: 10px;
-    color: rgb(0, 0, 0);
     border: 1px solid #e6f35b;
 }
